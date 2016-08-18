@@ -1,4 +1,3 @@
-layout_spectrum: 0.8734065713360906
 typography_spectrum: 0.4608550446573645
 color:
   brandStrength: 0.29271678859367967
@@ -11,4 +10,11 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8734065713360906
 name: Ado
+navigation:
+  - name: Twitter
+    url: 'http://twitter.com/adnancehic'
+    type: external
+title: Welcome
+description: Tagline
