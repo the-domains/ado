@@ -16,5 +16,8 @@ navigation:
   - name: Twitter
     url: 'http://twitter.com/adnancehic'
     type: external
+  - name: Contact
+    url: '#'
+    type: external
 title: Welcome
 description: Tagline
